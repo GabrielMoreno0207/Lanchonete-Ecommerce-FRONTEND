@@ -52,7 +52,7 @@ const Cardapio = () => {
               <img src="./src/Frontend/assets/hot.png" alt="Imagem da Pizza" className="mb-2 w-24 h-24 object-cover rounded-full" />
               <h4 className="text-white text-lg font-semibold mb-2">Hotdog</h4>
               <p className="text-gray-400 text-center">O Hot Dog Simples é preparado com uma salsicha grelhada, mostarda amarela, ketchup e cebolas picadas, servidos em um pão macio.</p>
-              <p className="text-yellow-400">R$ 20,00</p>
+              <p className="text-yellow-400">R$ 18,00</p>
               <button className="bg-yellow-500 text-gray-800 px-4 py-2 mt-2 rounded-full hover:bg-yellow-600 hover:text-gray-900">Adicionar ao Pedido</button>
             </div>
           </div>
