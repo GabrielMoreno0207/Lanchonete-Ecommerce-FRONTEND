@@ -1,7 +1,5 @@
 import React from 'react'
 import hot from '../assets/hotdog.png'
-
-
 import {TypeAnimation} from 'react-type-animation'
 
 const Destaques = () => {
